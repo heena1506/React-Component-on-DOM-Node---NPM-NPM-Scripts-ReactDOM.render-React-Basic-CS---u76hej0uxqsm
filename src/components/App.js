@@ -1,4 +1,3 @@
-ReactDOM.render(<App /> ,document.getElementById('root'))
 import React from 'react'
 
 function App() {
